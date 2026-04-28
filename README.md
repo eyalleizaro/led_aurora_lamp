@@ -6,7 +6,6 @@ A programmable LED aurora lamp built with an Arduino Uno, two NeoPixel LED rings
 
 https://www.tinkercad.com/things/8Uebq5KBjwT-led-aurora-lamp
 
-> Note: make sure the Tinkercad project is shared publicly if you want other people to open it from GitHub.
 
 ## Features
 
