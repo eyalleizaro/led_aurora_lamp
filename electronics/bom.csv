@@ -1,0 +1,8 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"RING1",1," NeoPixel Ring 16"
+"RING2",1," NeoPixel Ring 24"
+"M1",1,"416 DC Motor with encoder"
+"U2",1," H-bridge Motor Driver"
+"P1",1,"5 , 5  Power Supply"
+"C1",1,"1000 uF, 5 V Polarized Capacitor"
